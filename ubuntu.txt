@@ -1,0 +1,2 @@
+1.Ubuntu 运行级别
+https://www.cnblogs.com/hbhzsysutengfei/p/ubuntu-runlevel-autostart-service.html
